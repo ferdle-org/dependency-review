@@ -1,13 +1,3 @@
 fail_on_severity: 'high'
 deny_licenses:
   - 'LGPL-2.1-or-later'
-  - 'LGPL-2.1+'
-  - 'LGPL-3.0-only'
-  - 'LGPL-3.0'
-  - 'LGPL-3.0-only'
-  - 'LGPL-3.0+'
-  - 'MPL-1.0'
-  - 'MPL-1.1'
-  - 'OpenJDK-assembly-exception-1.0'
-  - 'openvpn-openssl-exception'
-  - 'SPL-1.0'
